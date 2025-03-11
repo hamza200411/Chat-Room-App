@@ -1,4 +1,4 @@
-![غرفة الدردشة 3_11_2025 5_01_02 PM](https://github.com/user-attachments/assets/90fdb76c-57e2-4bc1-a329-6c2e97dfaa62)# Simple Client-Server Chat Room
+# Simple Client-Server Chat Room
 
 A Simple chat room application built with **Python** using **tkinter** (GUI) , **socket** (networking) and **Threading** (Multiple clients) modules, so multiple clients can connect to the server and exchange real-time messages.
 
